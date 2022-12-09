@@ -17,7 +17,7 @@
     "apexcharts": "^3.10.1",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "plotly.js": "^1.51.1",
     "vue": "^2.6.10",
     "vue-apexcharts": "^1.5.1",
